@@ -80,6 +80,7 @@ echo "<br>Meal Type : $mealType";
 echo "<br>Meal Size : $mealSize";
 echo "<br>Meal Quantity : $quantity";
 echo "<br>Total bill : $total";
+echo "<br>Thank you for your order!";
 ?>
 
 </body>
